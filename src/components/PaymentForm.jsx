@@ -4,6 +4,7 @@ import "./PaymentForm.css";
 const PaymentForm = () => {
   return (
     <div className="payment-container">
+      <div style="height:100px; width:100px;"></div>
       <div className="payment-box">
         {/* Header */}
         <div className="header">
